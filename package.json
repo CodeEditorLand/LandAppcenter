@@ -287,7 +287,7 @@
 		"run-sequence": "2.2.1",
 		"rx-lite": "4.0.8",
 		"sandbox": "0.8.6",
-		"semver": "7.7.0",
+		"semver": "7.7.1",
 		"should": "13.2.3",
 		"simple-git": "3.27.0",
 		"sinon": "19.0.2",
@@ -297,9 +297,9 @@
 		"yazl": "3.3.1"
 	},
 	"devDependencies": {
-		"@types/node": "22.13.0",
+		"@types/node": "22.13.1",
 		"@types/rimraf": "4.0.5",
-		"mock-fs": "5.4.1"
+		"mock-fs": "5.5.0"
 	},
 	"icon": "images/icon.png"
 }
