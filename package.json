@@ -269,7 +269,7 @@
 		"date-fns": "4.1.0",
 		"del": "8.0.0",
 		"event-stream": "4.0.1",
-		"git-url-parse": "16.0.0",
+		"git-url-parse": "16.0.1",
 		"gradle-to-js": "2.0.1",
 		"jsonwebtoken": "9.0.2",
 		"lodash": "4.17.21",
@@ -297,7 +297,7 @@
 		"yazl": "3.3.1"
 	},
 	"devDependencies": {
-		"@types/node": "22.13.1",
+		"@types/node": "22.13.4",
 		"@types/rimraf": "4.0.5",
 		"mock-fs": "5.5.0"
 	},
