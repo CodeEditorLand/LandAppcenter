@@ -1,11 +1,11 @@
 {
-	"name": "reactNativeApp",
-	"scripts": {
-		"start": "node node_modules/react-native/local-cli/cli.js start"
-	},
+	"dependencies": {},
+	"devDependencies": {},
 	"jest": {
 		"preset": "react-native"
 	},
-	"dependencies": {},
-	"devDependencies": {}
+	"name": "reactNativeApp",
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start"
+	}
 }
